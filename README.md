@@ -18,6 +18,7 @@ This busboard is designed to just hang out in the back of your rack - rather tha
 * (2) resistor 0805 2.2k 
 * (1) header, male, shrouded, 2x5 
 
+Adapted from the [Teletype Busboard](https://github.com/monome/tt-busboard) by Brian Crabtree (Monome)
 
 ![](pictures/ttbbjr-1.JPG)
 
