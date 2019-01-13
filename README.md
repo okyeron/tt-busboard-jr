@@ -1,12 +1,12 @@
 # TT-Busboard-Jr.
 
-a small powered i2c busboard for the monome/teletype i2c ecosystem
+A small powered i2c busboard for the monome/teletype i2c ecosystem
 
-This is compact powered i2c busboard suitable for use with Teletype, Trilogy and other i2c modules. 
+This is compact powered i2c busboard suitable for use with Monome Teletype, Trilogy and other i2c modules. 
 
-It provides 3 i2c / ii headers and additional pull-up to support larger i2c / ii networks.
+Provides three i2c / ii headers with pull-ups to support larger i2c / ii networks.
 
-You can connect up to 6 modules with regular (1x3) i2c jumpers or use a "flying bus" cable to connect multiple modules in series.
+You can connect up to six modules with regular (1x3) i2c jumpers, or more using "flying bus" cables to connect multiple modules in series.
 
 This busboard is designed to just hang out in the back of your rack - rather than be directly attached to a module.
 
