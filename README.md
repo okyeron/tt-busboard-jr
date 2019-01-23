@@ -10,6 +10,8 @@ You can connect up to six modules with regular (1x3) i2c jumpers, or more using 
 
 This busboard is designed to just hang out in the back of your rack - rather than be directly attached to a module.
 
+PCBs and full-built versions of this project are available via https://denki-oto.weebly.com
+Or just make you own!
 
 ## bom
 
